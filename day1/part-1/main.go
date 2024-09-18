@@ -33,9 +33,9 @@ func main()  {
 	for _, line := range lines {
 		// Find all numbers in the line
 		numbers := re.FindAllString(line, -1)
-		if len(numbers)>0 {
-			fmt.Println("Numbers in Line are: ", numbers)
-		}
+		// if len(numbers)>0 {
+		// 	fmt.Println("Numbers in Line are: ", numbers)
+		// }
 
 		// If there are no numbers in the line, skip it
 		if len(numbers) == 0 {
