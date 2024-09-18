@@ -19,7 +19,7 @@ Each part will have its own folder with:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/learning-go-advent-of-code.git
+   git clone https://github.com/thespecialone1/adventofcode
 
 2. Navigate to the desired part folder:
     ```bash
