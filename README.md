@@ -4,7 +4,7 @@ This repository is a personal journey of learning Go by solving problems from [A
 
 ## Overview
 
-#Day 1
+# Day 1
 - **Part 1**: Basic file reading and string manipulation. This part covers how to read a file, find specific digits within lines of text, and manipulate data (extract, combine and calculate the sum).
 - **Part 2** (Coming soon): 
 
