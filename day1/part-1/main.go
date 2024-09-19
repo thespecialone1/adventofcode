@@ -15,7 +15,7 @@ import (
 //	}
 
 func main()  {
-	data, err := os.ReadFile("doc.txt")
+	data, err := os.ReadFile("C:\\Lahrasab\\go-projects\\adventofcode\\day1\\doc.txt")
 	if err != nil {
 		fmt.Print(err)
 	
