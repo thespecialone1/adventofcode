@@ -1,0 +1,3 @@
+
+Open --> Scan --> for loop [scanner.scan()->strings.Fields(line)] --> leftStr & rightStr [0&1] (separate them) --> convert line(left & rigt) into int[strconv.atoi]
+append into list [leftstr and right str] --> chk error in scanner.Err() --> sort.Ints(leftList)
